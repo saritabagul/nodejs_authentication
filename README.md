@@ -14,7 +14,8 @@ This app provides login, logout, register, and forget password features.
 5. Server running at:<br>
    <a href="http://localhost:8000/">http://localhost:8000/</a>
 
-   <img width="861" alt="auth_home" src="https://github.com/saritabagul/nodejs_authentication/assets/34671228/2c6651f2-dd2e-4bc8-a081-69a4fe9b2cd8">
+  <img width="957" alt="auth" src="https://github.com/saritabagul/nodejs_authentication/assets/34671228/ae35ca49-d2c4-4343-a9a1-7befdee99cbf">
+
 
 
 # How to use nodemailer to send mail?
