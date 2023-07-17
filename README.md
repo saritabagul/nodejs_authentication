@@ -4,7 +4,7 @@ This app provides login, logout, register, and forget password features.
 
 # Installation
 1. Clone the Repository<br>
-  <code>git clone https://github.com/saritabagul/nodejs_authentication.git</code>
+  <code>git clone https://github.com/saritabagul/nodejs_authentication.git</code>  
 2. Into the project directory<br>
   <code>cd nodejs_authentication</code>
 3. Installing NPM dependencies<br>
