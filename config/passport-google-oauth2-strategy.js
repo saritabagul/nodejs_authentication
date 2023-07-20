@@ -11,7 +11,7 @@ passport.use(new googleStrategy({
 
     clientID:"843140863994-psp173sd7k4svv1i3h4oeu6us6al1ot1.apps.googleusercontent.com",
     clientSecret:"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",
-    callbackURL:"http://localhost:8000/auth/google/callback",
+    callbackURL:"https://tame-jade-ostrich-kilt.cyclic.app/auth/google/callback",
 },
 async function(accessToken,refreshToken,profile,done){
     try{
