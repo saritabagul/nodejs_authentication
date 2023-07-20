@@ -66,8 +66,11 @@ exports.registerHandle = (req, res) => {
                     port: 587,
                     secure: false,
                     auth: {
-                        user: '*******', // put your email/username here
-                        pass: '*******' // put your password here
+                        // user: '*******', // put your email/username here
+                        // pass: '*******' // put your password here
+
+                          user: 'bagulsarita2016',
+                          pass: 'ujqdlcqrxhpzwrxz'
                     },
                 });
 
@@ -211,8 +214,11 @@ exports.forgotPassword = (req, res) => {
                             port: 587,
                             secure: false,
                             auth: {
-                                user: '*******', // put your email/username here
-                                pass: '*******' // put your password here
+                                // user: '*******', // put your email/username here
+                                // pass: '*******' // put your password here
+
+                                user: 'bagulsarita2016',
+                                pass: 'ujqdlcqrxhpzwrxz'
                             },
                         });
 
