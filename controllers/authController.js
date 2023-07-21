@@ -67,10 +67,7 @@ exports.registerHandle = (req, res) => {
                     secure: false,
                     auth: {
                         // user: '*******', // put your email/username here
-                        // pass: '*******' // put your password here
-
-                          user: 'bagulsarita2016',
-                          pass: 'ujqdlcqrxhpzwrxz'
+                        // pass: '*******' // put your password here                        
                     },
                 });
 
@@ -215,10 +212,7 @@ exports.forgotPassword = (req, res) => {
                             secure: false,
                             auth: {
                                 // user: '*******', // put your email/username here
-                                // pass: '*******' // put your password here
-
-                                user: 'bagulsarita2016',
-                                pass: 'ujqdlcqrxhpzwrxz'
+                                // pass: '*******' // put your password here                              
                             },
                         });
 
